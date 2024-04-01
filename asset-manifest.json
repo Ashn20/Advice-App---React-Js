@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Advice-App---React-Js/static/css/main.36a3e512.css",
+    "main.js": "/Advice-App---React-Js/static/js/main.abc1556d.js",
+    "static/js/453.5327a908.chunk.js": "/Advice-App---React-Js/static/js/453.5327a908.chunk.js",
+    "static/media/logo.svg": "/Advice-App---React-Js/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Advice-App---React-Js/index.html",
+    "main.36a3e512.css.map": "/Advice-App---React-Js/static/css/main.36a3e512.css.map",
+    "main.abc1556d.js.map": "/Advice-App---React-Js/static/js/main.abc1556d.js.map",
+    "453.5327a908.chunk.js.map": "/Advice-App---React-Js/static/js/453.5327a908.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36a3e512.css",
+    "static/js/main.abc1556d.js"
+  ]
+}
